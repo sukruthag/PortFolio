@@ -4,7 +4,7 @@
 
 .bgimage {
     height: 100vh;
-    background: url("C:\\Projects\\Suku PortFolio\\images\\img1.jpg");
+    background: url("images\\img1.jpg");
     background-size: cover;
     position: relative;
 }
